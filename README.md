@@ -18,3 +18,7 @@ git clone https://github.com/Bergiu/zsh-catfacts.git ~/.oh-my-zsh/plugins/zsh-ca
 ```
 
 Then add `zsh-catfacts` to plugins in ~/.zshrc
+
+## Credits
+
+Credits to this reddit post: https://www.reddit.com/r/sysadmin/comments/pywlqn/worst_practical_joke/hezhx8w/
