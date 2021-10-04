@@ -1,10 +1,10 @@
 # zsh-catfacts
 
-Speaks out random cat facts.
+Speaks out random cat facts and prints it to the terminal.
 
 ## Features
 
-This plugin requires `espeak` and `jq` to be installed. Then whenever a zsh terminal is opened, it will speak out a random fact about cats.
+This plugin requires `espeak` and `jq` to be installed. Then whenever a zsh terminal is opened, it will speak out a random fact about cats and print it to the terminal.
 
 ## Requirements
 
